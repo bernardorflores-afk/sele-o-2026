@@ -1,10 +1,10 @@
-cbf{
+.cbf{
 
 display: flexbox;
 height: 350px;
 width: 450px;
 
-background-color: rgb(255, 255, 0);
+
 
 }
 
@@ -12,15 +12,22 @@ background-color: rgb(255, 255, 0);
 
 display: flex;
 align-self: center;
-background-color: yellow;
+background-color: #fcfc02d3;
 gap: 300px;
-}
 
+
+}
+body{ 
+
+background-color:  rgb(28, 139, 0);
+
+
+}
 
 .vini{ 
 
 display: block;
-
+box-sizing: border-box;
 
 margin-left:  auto;
 margin-right: auto;
@@ -113,6 +120,9 @@ height: 10%;
 width: 20%;
 
 }
+
+
+
 
 
 
