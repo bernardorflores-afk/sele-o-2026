@@ -1,12 +1,32 @@
+cbf{
+
+display: flexbox;
+height: 350px;
+width: 450px;
+
+background-color: rgb(255, 255, 0);
+
+}
+
+.cabecario{
+
+display: flex;
+align-self: center;
+background-color: yellow;
+gap: 300px;
+}
+
+
 .vini{ 
 
 display: block;
 
+
 margin-left:  auto;
 margin-right: auto;
 
-height: 10%px;
-width: 30%px;
+height: 10%;
+width: 20%;
 
 }
 
@@ -17,8 +37,8 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 
-height: 10%px;
-width: 30%px;
+height: 10%;
+width: 20%;
 
 }
 
@@ -29,8 +49,8 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 
-height: 10%px;
-width: 30%px;
+height: 10%;
+width: 20%;
 
 }
 
@@ -41,8 +61,63 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 
-height: 10%px;
-width: 30%px;
+height: 10%;
+width: 20%;
 
 }
+
+.case{
+
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+
+height: 10%;
+width: 20%;
+
+}
+
+.paqueta{
+
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+
+height: 10%;
+width: 20%;
+
+}
+
+.ederson{
+
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+
+height: 10%;
+width: 20%;
+
+}
+
+.fabinho{
+
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+
+height: 10%;
+width: 20%;
+
+}
+
+
+
+
+
+
+
 
